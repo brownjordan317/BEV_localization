@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Square Outline</name>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color> <!-- Blue color -->
+          <width>10</width> <!-- Line width -->
+        </LineStyle>
+        <PolyStyle>
+          <color>00ffffff</color> <!-- Transparent fill -->
+          <fill>0</fill> <!-- No fill -->
+        </PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -72.67911017106648,43.929138445562344,0
+              -72.6354658289335,43.929138445562344,0
+              -72.6354658289335,43.897697554437656,0
+              -72.67911017106648,43.897697554437656,0
+              -72.67911017106648,43.929138445562344,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
