@@ -9,6 +9,7 @@ descriptor_matching/descriptor_data_bases/
 descriptor_matching/output/
 descriptor_matching/perfect_output/
 fourier_template_matching/output/
+fourier_template_matching/outputs_from_gaussian_blurs
 images/
 myvenv/
 old_versions/
